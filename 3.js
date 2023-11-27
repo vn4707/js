@@ -20,7 +20,7 @@ var jwDefaults = {
   "mute": false,
   "ph": 1,
   "pid": "r2cr6BE6",
-  "playbackRateControls": false,
+  "playbackRateControls": true,
   "preload": "metadata",
   "repeat": false,
   "skin": {
