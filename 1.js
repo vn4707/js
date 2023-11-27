@@ -13,7 +13,7 @@ var jwDefaults = {
   "advertising": {},
   "aspectratio": "16:9",
   "autostart": false,
-  "controls": true,
+  "controls": false,
   "displaytitle": false,
   "height": 270,
   "key": "WnUhgAV8YFYsaJjSu/BCMRCR75s1OO0VoqjWQnn+D7Rs1yr3urx6qskz7JA=",
