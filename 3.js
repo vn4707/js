@@ -20,9 +20,9 @@ var jwDefaults = {
   "mute": false,
   "ph": 1,
   "pid": "r2cr6BE6",
-  "playbackRateControls": true,
+  "playbackRateControls": false,
   "preload": "metadata",
-  "repeat": false,
+  "repeat": true,
   "skin": {
     "controlbar": {
       "background": "rgba(0,0,0,0)",
